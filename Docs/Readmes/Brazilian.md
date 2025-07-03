@@ -11,7 +11,7 @@
 [![Version](https://img.shields.io/badge/Diretrizes-V.%201.0-068efd.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Servidor%20no%20Discord&color=068efd)](https://discord.gg/tVNv6SNZZT)
 
-Esse projeto tem como objetivo traduzir as texturas e os textos de Ricochet para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fan para fan.
+Esse projeto tem como objetivo traduzir as texturas e os textos de Ricochet para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fã para fã.
 
 Essas traduções são feitas pela comunidade, este repositório agrega as texturas e textos da comunidade para o jogo.
 
