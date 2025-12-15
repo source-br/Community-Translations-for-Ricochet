@@ -1,42 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=068efd&height=85&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=750046&height=85&section=header"/>
 
 <div align="right">
     <a href="Docs/Readmes/Brazilian.md" target="_blank">
-        <img src="Docs/img/readme/flag_br.png" height="25" width="25">
+        <img src="https://raw.githubusercontent.com/source-br/Community-Translations-for-GoldSrc/refs/heads/main/Docs/img/readme/flag_br.png" height="25" width="25">
     </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&width=1000&lines=Community+Translations+for+Ricochet)](https://git.io/typing-svg)
+<div align="center">
 
-[![Version](https://img.shields.io/badge/Guidelines-V.%201.0-068efd.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Discord%20server&color=068efd)](https://discord.gg/tVNv6SNZZT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&width=1000&lines=Community+Translations+for)](https://git.io/typing-svg)
 
-This project aims to translate the textures and texts of **Ricochet** into other languages that do not have an official translation, in a community-driven, fan-to-fan manner.
+![Title](Docs/img/logos/title.png)
 
-These translations are made by the community. This repository gathers community-made textures and texts for the game.
+[![Guidelines](https://img.shields.io/badge/Guidelines-EN-750046.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
+[![Documentation](https://img.shields.io/badge/Documentation-Wiki-750046.svg)](Docs/Documentation.md)
+[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=750046)](https://discord.gg/tVNv6SNZZT)
 
-> [!WARNING]
-> The repository containing the interface is currently private.
+</div>
+
+#
+
+This project aims to translate the textures and texts of **Ricochet** into other languages that don’t have an official translation, in a community-driven, fan-to-fan way.
+
+These translations are made by the community. This repository gathers the editable `.psd` textures and translated texts for the game.
 
 ## Available Translations
-| Language   | Texts  | Textures |
-| ---------- | ------ | -------- |
-| Portuguese Brazilian | ✅ 100% | ✅ 100%   |
+- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Ricochet/releases/download/continuous/Brazilian.7z)
 
 ## How to Contribute
-This repository contains editable texture files. If you have the necessary skills, you can translate the textures into your language or improve existing ones to better match the original style.
 
-1. **Suggestions for improvements or corrections**
+* [Documentation](Docs/Documentation.md)
 
-   * Open an *issue* in this repository
-   * Or contact us via Discord
+If you have the knowledge, you can translate the game into your language, or improve the project.
 
-2. **Translations into other languages**
+1. **Suggestions for improvements or fixes**
+   * Open an *issue* in this repository.
+   * Or get in touch via [Discord](https://discord.gg/tVNv6SNZZT).
 
-   * Contact the team for guidance
-   * Once validated, your translation will be added to the project with proper credit
+2. **Translations into other languages or improvements**
+   * Read the documentation and contact the team if you want further guidance.
+   * After validation, your translation will be added to the project with proper credits.
+
+
+
+> [!WARNING]
+> This project is not affiliated with Valve Corporation.
 
 > [!NOTE]
-> This project is managed by **Source BR**. If you have any questions, join our [Discord](https://discord.gg/tVNv6SNZZT)
+> This project is managed by Source BR, so if you have any questions, contact us on our [Discord](https://discord.gg/tVNv6SNZZT).
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff432d&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=750046&height=85&section=footer"/>
