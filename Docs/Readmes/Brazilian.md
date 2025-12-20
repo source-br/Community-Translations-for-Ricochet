@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=750046&height=85&section=header"/>
 
 <div align="right">
-    <a href="Docs/Readmes/Brazilian.md" target="_blank">
+    <a href="../../README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/source-br/Community-Translations-for-GoldSrc/refs/heads/main/Docs/img/readme/flag_br.png" height="25" width="25">
     </a>
 </div>
