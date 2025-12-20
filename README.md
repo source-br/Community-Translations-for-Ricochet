@@ -13,7 +13,7 @@
 ![Title](Docs/img/logos/title.png)
 
 [![Guidelines](https://img.shields.io/badge/Guidelines-EN-750046.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
-[![Documentation](https://img.shields.io/badge/Documentation-Wiki-750046.svg)](Docs/Documentation.md)
+[![Documentation](https://img.shields.io/badge/Documentation-Wiki-750046.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=750046)](https://discord.gg/tVNv6SNZZT)
 
 </div>
@@ -29,7 +29,7 @@ These translations are made by the community. This repository gathers the editab
 
 ## How to Contribute
 
-* [Documentation](Docs/Documentation.md)
+* [Documentation](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 
 If you have the knowledge, you can translate the game into your language, or improve the project.
 
@@ -40,8 +40,6 @@ If you have the knowledge, you can translate the game into your language, or imp
 2. **Translations into other languages or improvements**
    * Read the documentation and contact the team if you want further guidance.
    * After validation, your translation will be added to the project with proper credits.
-
-
 
 > [!WARNING]
 > This project is not affiliated with Valve Corporation.
