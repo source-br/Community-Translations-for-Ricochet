@@ -14,7 +14,7 @@
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-750046.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-Wiki-750046.svg)](../PT-BR/Documentação.md)
-[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-750046.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.7z)
+[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-750046.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.zip)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=750046)](https://discord.gg/tVNv6SNZZT)
 
 </div>
@@ -31,7 +31,7 @@ Essas traduções são feitas pela comunidade, este repositório agrega as textu
 - [Sobre as traduções](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
 ## Traduções disponíveis
-- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.7z)
+- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Ricochet-Brazilian.zip)
 ## Como colaborarar
 
 * [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
